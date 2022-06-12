@@ -1,2 +1,2 @@
 # portfolio-html-css
-Portfólio HTML+CSS
+projeto de portfólio desenvolvido em html + CSS no Bootcamp TQI.
